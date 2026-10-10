@@ -1,0 +1,67 @@
+{
+  "slug": "mori-cuts",
+  "theme": "mori",
+  "name": "Mori Cuts",
+  "tagline": "North York · Toronto",
+  "currency": "CAD",
+  "timezone": "America/Toronto",
+  "port": 8771,
+  "address": "209 Sheppard Ave E #3, Toronto, ON M2N 3B1, Canada",
+  "phone": "+14377999169",
+  "phoneDisplay": "+1 (437) 799-9169",
+  "phoneNote": "Phone appears in a secondary directory; confirm with the owner.",
+  "booksy": "https://booksy.com/en-ca/27815_mori-cuts_barbershop_922113_north-york",
+  "headline": "Your style.<br>Refined.<br><em>By Mori.</em>",
+  "intro": "A fresh perspective on your everyday look. Haircuts, skin fades and beard care on Sheppard Avenue East.",
+  "image": "interior.jpg",
+  "imageCredit": "Barney Goodman / Unsplash",
+  "imageSource": "https://unsplash.com/photos/AXurvQTtO3Y",
+  "services": [
+    {
+      "name": "Haircut",
+      "description": "Choose your next cut.",
+      "price": 4000,
+      "duration": 45
+    },
+    {
+      "name": "Haircut and beard",
+      "description": "Hair and beard, in one appointment.",
+      "price": 4000,
+      "duration": 60
+    },
+    {
+      "name": "Skin fade",
+      "description": "A fresh fade for your next look.",
+      "price": 4000,
+      "duration": 45
+    },
+    {
+      "name": "Beard trim and line up",
+      "description": "A focused beard appointment.",
+      "price": 2500,
+      "duration": 30
+    },
+    {
+      "name": "Senior haircut",
+      "description": "The listed senior service.",
+      "price": 3500,
+      "duration": 30
+    },
+    {
+      "name": "Kids haircut (under 10)",
+      "description": "The listed service for younger clients.",
+      "price": 3500,
+      "duration": 45
+    }
+  ],
+  "barbers": [
+    {
+      "name": "Mori",
+      "bio": "Listed barber at Mori Cuts. Choose Mori when planning your appointment."
+    },
+    {
+      "name": "Mobin",
+      "bio": "Listed barber at Mori Cuts. Choose Mobin when planning your appointment."
+    }
+  ]
+}
